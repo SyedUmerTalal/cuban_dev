@@ -1,0 +1,1 @@
+<?php redirect('edit/developer/1');?>

@@ -1,0 +1,1 @@
+<?php redirect('edit/user/5');?>
